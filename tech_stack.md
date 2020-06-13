@@ -2,10 +2,9 @@
 
 ## Back-end:
 
-- Language: Rust (mainly because I want an excuse to do more Rust)
-- Web framework: Actix
+- Language: Python (Mainly because I want to build very quickly)
+- Web framework: DJango
 - DB: PostgreSQL
-- ORM: Diesel
 
 ## Front-end:
 
